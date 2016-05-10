@@ -1,4 +1,6 @@
 def dodawanie(a, b):
 	return a + b
 	
-print dodawanie()
+a = int(input())
+b = int(input())
+print (dodawanie(a,b))
